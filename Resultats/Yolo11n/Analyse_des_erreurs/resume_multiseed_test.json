@@ -1,0 +1,239 @@
+{
+  "seeds": [
+    42,
+    123,
+    2024,
+    7,
+    77
+  ],
+  "par_seed": [
+    {
+      "seed": 42,
+      "AUC": 0.863989732306564,
+      "sens_image": 0.7592592592592593,
+      "spec_image": 0.8534653465346534,
+      "sens_lesion": 0.5277777777777778,
+      "n_flaggees_hors_lesion": 25,
+      "indice_median_ring": 0.3013992172775841,
+      "IC_bas_median_ring": 0.2312361830394797,
+      "indice_TP_median_ring": 0.5594596754093736,
+      "surv_lesion_A1_median_ring": 0.0,
+      "surv_lesion_A2_median_ring": 0.9578947368421051,
+      "surv_image_A1_median_ring": 0.5487804878048781,
+      "surv_image_A2_median_ring": 0.9682926829268294,
+      "indice_blur": 0.30165060021121193,
+      "IC_bas_blur": 0.2302203507025034,
+      "indice_TP_blur": 0.5520707688318859,
+      "surv_lesion_A1_blur": 0.0,
+      "surv_lesion_A2_blur": 0.9649122807017544,
+      "surv_image_A1_blur": 0.573170731707317,
+      "surv_image_A2_blur": 0.9731707317073172,
+      "occ_enrichissement_median": 10.374922309407545,
+      "occ_max_chute_hors_lesion_med": 0.26501719653606415
+    },
+    {
+      "seed": 123,
+      "AUC": 0.8641914191419142,
+      "sens_image": 0.6666666666666666,
+      "spec_image": 0.8693069306930693,
+      "sens_lesion": 0.5185185185185185,
+      "n_flaggees_hors_lesion": 16,
+      "indice_median_ring": 0.33625120143707904,
+      "IC_bas_median_ring": 0.26817153897657087,
+      "indice_TP_median_ring": 0.6284564654455088,
+      "surv_lesion_A1_median_ring": 0.0,
+      "surv_lesion_A2_median_ring": 0.9571428571428572,
+      "surv_image_A1_median_ring": 0.3611111111111111,
+      "surv_image_A2_median_ring": 0.9777777777777779,
+      "indice_blur": 0.34373644926300684,
+      "IC_bas_blur": 0.2761681187796758,
+      "indice_TP_blur": 0.639970715183881,
+      "surv_lesion_A1_blur": 0.0,
+      "surv_lesion_A2_blur": 0.975,
+      "surv_image_A1_blur": 0.4722222222222222,
+      "surv_image_A2_blur": 0.9722222222222222,
+      "occ_enrichissement_median": 9.530458935080093,
+      "occ_max_chute_hors_lesion_med": 0.5147203952074051
+    },
+    {
+      "seed": 2024,
+      "AUC": 0.8775577557755776,
+      "sens_image": 0.6574074074074074,
+      "spec_image": 0.9346534653465347,
+      "sens_lesion": 0.5,
+      "n_flaggees_hors_lesion": 17,
+      "indice_median_ring": 0.3319874811025026,
+      "IC_bas_median_ring": 0.25578341301806545,
+      "indice_TP_median_ring": 0.656474084417439,
+      "surv_lesion_A1_median_ring": 0.0,
+      "surv_lesion_A2_median_ring": 0.9518518518518517,
+      "surv_image_A1_median_ring": 0.38028169014084506,
+      "surv_image_A2_median_ring": 0.9859154929577465,
+      "indice_blur": 0.3441324153486036,
+      "IC_bas_blur": 0.2673145204539631,
+      "indice_TP_blur": 0.6760803113553536,
+      "surv_lesion_A1_blur": 0.0,
+      "surv_lesion_A2_blur": 0.9814814814814815,
+      "surv_image_A1_blur": 0.39436619718309857,
+      "surv_image_A2_blur": 0.9830985915492957,
+      "occ_enrichissement_median": 14.100258983898357,
+      "occ_max_chute_hors_lesion_med": 0.42474062368273735
+    },
+    {
+      "seed": 7,
+      "AUC": 0.8775210854418776,
+      "sens_image": 0.7870370370370371,
+      "spec_image": 0.8257425742574257,
+      "sens_lesion": 0.5555555555555556,
+      "n_flaggees_hors_lesion": 25,
+      "indice_median_ring": 0.29116202121195206,
+      "IC_bas_median_ring": 0.2207327786506115,
+      "indice_TP_median_ring": 0.5194776941540962,
+      "surv_lesion_A1_median_ring": 0.0,
+      "surv_lesion_A2_median_ring": 0.9633333333333334,
+      "surv_image_A1_median_ring": 0.6588235294117647,
+      "surv_image_A2_median_ring": 0.9764705882352941,
+      "indice_blur": 0.28892673978245714,
+      "IC_bas_blur": 0.21972913081923182,
+      "indice_TP_blur": 0.5171788058169962,
+      "surv_lesion_A1_blur": 0.0,
+      "surv_lesion_A2_blur": 0.9433333333333332,
+      "surv_image_A1_blur": 0.6823529411764706,
+      "surv_image_A2_blur": 0.983529411764706,
+      "occ_enrichissement_median": 11.838412759576606,
+      "occ_max_chute_hors_lesion_med": 0.287453755736351
+    },
+    {
+      "seed": 77,
+      "AUC": 0.8567015034836817,
+      "sens_image": 0.7407407407407407,
+      "spec_image": 0.8475247524752475,
+      "sens_lesion": 0.5833333333333334,
+      "n_flaggees_hors_lesion": 17,
+      "indice_median_ring": 0.3230651574849616,
+      "IC_bas_median_ring": 0.2609840076929659,
+      "indice_TP_median_ring": 0.5469447876966101,
+      "surv_lesion_A1_median_ring": 0.0,
+      "surv_lesion_A2_median_ring": 0.9619047619047618,
+      "surv_image_A1_median_ring": 0.5625,
+      "surv_image_A2_median_ring": 0.9925,
+      "indice_blur": 0.3213608154274644,
+      "IC_bas_blur": 0.2594234080210002,
+      "indice_TP_blur": 0.544684449002324,
+      "surv_lesion_A1_blur": 0.0,
+      "surv_lesion_A2_blur": 0.9777777777777777,
+      "surv_image_A1_blur": 0.6375,
+      "surv_image_A2_blur": 0.99,
+      "occ_enrichissement_median": 10.62374150430834,
+      "occ_max_chute_hors_lesion_med": 0.38651849515736103
+    }
+  ],
+  "moyenne_et_ecart_type": {
+    "AUC": {
+      "moyenne": 0.8679922992299229,
+      "ecart_type_ddof1": 0.009222865953740634
+    },
+    "sens_image": {
+      "moyenne": 0.7222222222222223,
+      "ecart_type_ddof1": 0.05745219280551324
+    },
+    "spec_image": {
+      "moyenne": 0.8661386138613862,
+      "ecart_type_ddof1": 0.041361971246846554
+    },
+    "sens_lesion": {
+      "moyenne": 0.5370370370370371,
+      "ecart_type_ddof1": 0.03273642505493277
+    },
+    "n_flaggees_hors_lesion": {
+      "moyenne": 20.0,
+      "ecart_type_ddof1": 4.58257569495584
+    },
+    "indice_median_ring": {
+      "moyenne": 0.3167730157028159,
+      "ecart_type_ddof1": 0.019638911896627934
+    },
+    "IC_bas_median_ring": {
+      "moyenne": 0.2473815842755387,
+      "ecart_type_ddof1": 0.020363396621298088
+    },
+    "indice_TP_median_ring": {
+      "moyenne": 0.5821625414246056,
+      "ecart_type_ddof1": 0.057772037361311965
+    },
+    "surv_lesion_A1_median_ring": {
+      "moyenne": 0.0,
+      "ecart_type_ddof1": 0.0
+    },
+    "surv_lesion_A2_median_ring": {
+      "moyenne": 0.9584255082149818,
+      "ecart_type_ddof1": 0.00450920790255281
+    },
+    "surv_image_A1_median_ring": {
+      "moyenne": 0.5022993636937197,
+      "ecart_type_ddof1": 0.1275802309241466
+    },
+    "surv_image_A2_median_ring": {
+      "moyenne": 0.9801913083795295,
+      "ecart_type_ddof1": 0.009294035110143144
+    },
+    "indice_blur": {
+      "moyenne": 0.3199614040065488,
+      "ecart_type_ddof1": 0.02474815567725602
+    },
+    "IC_bas_blur": {
+      "moyenne": 0.25057110575527486,
+      "ecart_type_ddof1": 0.024388998114522747
+    },
+    "indice_TP_blur": {
+      "moyenne": 0.5859970100380881,
+      "ecart_type_ddof1": 0.06823090355057836
+    },
+    "surv_lesion_A1_blur": {
+      "moyenne": 0.0,
+      "ecart_type_ddof1": 0.0
+    },
+    "surv_lesion_A2_blur": {
+      "moyenne": 0.9685009746588694,
+      "ecart_type_ddof1": 0.015354794512400627
+    },
+    "surv_image_A1_blur": {
+      "moyenne": 0.5519224184578218,
+      "ecart_type_ddof1": 0.11828273191550344
+    },
+    "surv_image_A2_blur": {
+      "moyenne": 0.9804041914487083,
+      "ecart_type_ddof1": 0.007556022365175087
+    },
+    "occ_enrichissement_median": {
+      "moyenne": 11.293558898454188,
+      "ecart_type_ddof1": 1.7730976499263678
+    },
+    "occ_max_chute_hors_lesion_med": {
+      "moyenne": 0.3756900932639837,
+      "ecart_type_ddof1": 0.10233129410259059
+    }
+  },
+  "stabilite": {
+    "accord_detection_lesions": {
+      "nb_images_detectees_par_k_seeds": {
+        "0": 33,
+        "1": 9,
+        "2": 6,
+        "3": 11,
+        "4": 9,
+        "5": 40
+      },
+      "detectees_par_tous": 40,
+      "detectees_par_aucun": 33,
+      "n_images_fracturees": 108
+    },
+    "occlusion_spearman_entre_seeds": {
+      "moyenne": 0.36991416438042696,
+      "mediane": 0.3883201344486015,
+      "n_paires_images": 124
+    }
+  },
+  "version_parametres": "v1.2 \u2014 2026-11-01",
+  "run_tag": "5seeds_nbs64"
+}

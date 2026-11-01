@@ -1,0 +1,20 @@
+{
+  "Fracture": {
+    "AUC": 0.8655,
+    "IC95": [
+      0.8215,
+      0.9056
+    ],
+    "Sensibilite": 0.7315,
+    "Specificite": 0.8733,
+    "Seuil_Youden": 0.3255,
+    "mAP50": 0.4368
+  },
+  "global": {
+    "model": "FasterRCNN_ResNet50_FPN_V2",
+    "mAP50": 0.4368,
+    "seed": 7,
+    "img_size": 640,
+    "preprocessing": "CLAHE(clip=2.0)+Letterbox640"
+  }
+}

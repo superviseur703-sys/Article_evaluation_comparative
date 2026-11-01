@@ -1,0 +1,16 @@
+{
+  "seuil_F1_val": 0.45,
+  "F1_val_max": 0.633,
+  "mAP50": 0.3983,
+  "mAP50_95": 0.1614,
+  "nbs": 64,
+  "batch": 4,
+  "TP": 54,
+  "FP": 21,
+  "FN": 80,
+  "Precision": 0.72,
+  "Rappel": 0.403,
+  "F1": 0.5167,
+  "FP_par_image_normale": 0.0158,
+  "Specificite_image": 0.9842
+}

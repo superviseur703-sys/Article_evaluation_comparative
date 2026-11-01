@@ -1,0 +1,19 @@
+{
+  "Fracture": {
+    "AUC_mean": 0.852,
+    "AUC_std": 0.0127,
+    "mAP50_mean": 0.4074,
+    "mAP50_std": 0.0243,
+    "n_seeds": 5
+  },
+  "global": {
+    "model": "FasterRCNN_ResNet50_FPN_V2",
+    "seeds": [
+      42,
+      123,
+      2024,
+      7,
+      77
+    ]
+  }
+}

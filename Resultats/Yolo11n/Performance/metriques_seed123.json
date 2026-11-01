@@ -1,0 +1,20 @@
+{
+  "Fracture": {
+    "AUC": 0.8642,
+    "IC95": [
+      0.8194,
+      0.8991
+    ],
+    "Sensibilite": 0.7315,
+    "Specificite": 0.8277,
+    "Seuil_Youden": 0.0623,
+    "mAP50": 0.3848
+  },
+  "global": {
+    "model": "YOLOv11n",
+    "mAP50": 0.3848,
+    "seed": 123,
+    "img_size": 640,
+    "preprocessing": "CLAHE(clip=2.0)+Letterbox640"
+  }
+}

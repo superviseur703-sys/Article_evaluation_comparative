@@ -1,0 +1,19 @@
+{
+  "Fracture": {
+    "AUC_mean": 0.8699,
+    "AUC_std": 0.0089,
+    "mAP50_mean": 0.4019,
+    "mAP50_std": 0.0307,
+    "n_seeds": 5
+  },
+  "global": {
+    "model": "RTDETR-l",
+    "seeds": [
+      42,
+      123,
+      2024,
+      7,
+      77
+    ]
+  }
+}
